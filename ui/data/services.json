@@ -1,0 +1,23 @@
+{
+  "image": [
+    { "img1": "../src/assets/services1.png" },
+    { "img1": "../src/assets/services2.png" },
+    { "img1": "../src/assets/services3.png" }
+  ],
+  "Title": [
+    { "label": "Industrial" },
+    { "label": "Commercial" },
+    { "label": "Resedential" }
+  ],
+  "description": [
+    {
+      "desc": "Industrial development is our main line of business. We do Factory Construction, Warehouse and others"
+    },
+    {
+      "desc": "Our experience building in the Commercial field includes Showrooms,Supermalls and Office Buildings"
+    },
+    {
+      "desc": "Residential development is the beginning that has shaped us to this day. Our development includes Houses & Apartments"
+    }
+  ]
+}

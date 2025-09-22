@@ -1,0 +1,28 @@
+/* App-specific styles can go here */
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@layer base {
+  h1 {
+    font-family: 'Poppins', sans-serif;
+  }
+  p {
+    font-family: 'Poppins', sans-serif;
+  }  
+}
+
+.container {
+  width: 100%;
+  max-width: 1290px;   
+  margin: 0 auto;      
+  padding: 0  20px;     
+}
+/* * {
+  outline: 1px solid red;
+} */
+
+

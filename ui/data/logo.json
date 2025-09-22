@@ -1,0 +1,9 @@
+{
+  "logoData": [
+    { "logo": "../src/assets/logo1.png", "alt": "Logo 1",  "className": " w-[400px] h-[50px] md:w-[163px] h-[45px]" },
+    { "logo": "../src/assets/logo2.png", "alt": "Logo 2", "className": "w-[400px] h-[50px] md:w-[143px] h-[79px]" },
+    { "logo": "../src/assets/logo3.png", "alt": "Logo 3", "className": "w-[400px] h-[50px] md:w-[126px] md:h-[54px]" },
+    { "logo": "../src/assets/logo4.png", "alt": "Logo 4","className": "w-[400px] h-[50px] md:w-[146px] md:h-[67px]" },
+    { "logo": "../src/assets/logo5.png", "alt": "Logo 5", "className": "w-[400px] h-[50px] md:w-[219px] md:h-[120px]" }
+  ]
+}
