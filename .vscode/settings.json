@@ -6,6 +6,8 @@
   "editor.parameterHints.enabled": true,
   "editor.acceptSuggestionOnEnter": "on",
   "editor.inlineSuggest.enabled": true,
+  "editor.snippetSuggestions": "top",
+  "files.associations": { "*.jsx": "javascriptreact", "*.js": "javascript" },
   "editor.suggestSelection": "recentlyUsed",
   "editor.tabCompletion": "on",
   "editor.suggest.snippetsPreventQuickSuggestions": false,
