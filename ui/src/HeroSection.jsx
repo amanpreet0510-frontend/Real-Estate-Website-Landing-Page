@@ -4,7 +4,7 @@ import buildingImage from "./assets/building.png";
 const HeroSection = () => {
   return (
     <>
-    <div className="herosection h-[950px] x-sm:h-[900px] sm:h-[800px] overflow-y-hidden overflow-x-hidden md:min-h-full md:h-full pb-[53px] bg-gradient-to-t from-[#474747] to-[#222222] ">
+    <div className="herosection h-[950px] sm:h-[800px] overflow-y-hidden overflow-x-hidden md:min-h-full md:h-full pb-[53px] bg-gradient-to-t from-[#474747] to-[#222222] ">
       <div className="container relative text-center  overflow-hidden md:text-left flex  md:flex-row max-w-full">
         <div className="hero-content ms-[20px] me-[20px] md:ms-[50px] lg:ms-[50px] xl:ms-[0px] mt-[30px]">
           <h1 className="font-[500] text-[28px] md:text-[35px] xl:text-[64px] text-[#FFFFFF]   md:max-w-[350px] lg:max-w-[350px] xl:max-w-[600px]">We Provide

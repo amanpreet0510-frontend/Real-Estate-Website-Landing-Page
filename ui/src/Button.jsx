@@ -10,7 +10,7 @@ const Button = ({
   
   return (
     <button
-      className={`px-4 py-2 rounded cursor-pointer ${className}`}
+      className={`px-3 py-2 sm:px-4 sm:py-2 text-sm sm:text-base cursor-pointer ${className}`}
       onClick={onClick}
       {...props}
     >

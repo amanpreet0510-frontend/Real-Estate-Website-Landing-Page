@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "github.copilot",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "TabNine.tabnine-vscode"
+  ],
+  "unwantedRecommendations": []
+}

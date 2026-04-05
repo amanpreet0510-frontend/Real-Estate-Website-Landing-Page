@@ -1,0 +1,15 @@
+{
+    "mainTitle": "General Project",
+    "description": "is a general contractor company based in Jakarta. More than 25 years of experience in building and carving out Indonesia's development.",
+   "title":["Company","More"],
+    "company": [
+        "About",
+        "How it works",
+        "Term",
+        "Privacy Policy"
+    ],
+    "more": [
+        "Documentation",
+        "License"
+    ]
+}

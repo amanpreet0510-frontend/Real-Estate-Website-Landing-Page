@@ -8,11 +8,11 @@ const Services = () => {
     <>
       <div className="bg-[#F6F6F6CC]">
         <div className="container">
-          <div className="flex justify-around place-items-center gap-[321px]">
-            <h1 className="pt-[80px] pb-[80px] left-0 font-[600] text-[#242527] text-[46px] max-w-[400px]">
+          <div className="flex flex-col md:flex-row justify-around place-items-center gap-8 md:gap-16 lg:gap-[321px] text-center md:text-left">
+            <h1 className="pt-[40px] md:pt-[80px] pb-[40px] md:pb-[80px] font-[600] text-[#242527] text-[32px] sm:text-[46px] max-w-[300px] sm:max-w-[400px]">
               Our Excellent Services
             </h1>
-            <p className="pt-[80px] pb-[107px] leading-[40px] font-[500] text-[18px] text-[#C4C4C4] max-w-[500px] ">
+            <p className="pt-0 md:pt-[80px] pb-[40px] md:pb-[107px] leading-[30px] sm:leading-[40px] font-[500] text-[16px] sm:text-[18px] text-[#C4C4C4] max-w-[300px] sm:max-w-[400px] lg:max-w-[500px] ">
               Check out our best service you can possibly orders in building
               your company and don't forget to ask via our email or our customer
               service if you are interested in using our services
@@ -25,11 +25,11 @@ const Services = () => {
                   key={index}
                   className="flex flex-col"
                 >
-                  <img key={index} src={item.img1} height={287} width={368} />
-                  <h2 className="mt-[38px] text-[#242527] text-[28px] font-[600] ">
+                  <img key={index} src={item.img1} className="w-full max-w-[368px] h-auto" />
+                  <h2 className="mt-[38px] text-[#242527] text-[24px] sm:text-[28px] font-[600] ">
                     {Title[index]?.label}
                   </h2>
-                  <p className="mt-[37px] leading-[40px] text-[#C4C4C4] text-[18px] font-[500] max-w-[350px] break-all">
+                  <p className="mt-[37px] leading-[30px] sm:leading-[40px] text-[#C4C4C4] text-[16px] sm:text-[18px] font-[500] max-w-[350px] break-all">
                     {description[index]?.desc}
                   </p>
                 </div>
