@@ -1,8 +1,8 @@
 {
   "image": [
-    { "img1": "../src/assets/services1.png" },
-    { "img1": "../src/assets/services2.png" },
-    { "img1": "../src/assets/services3.png" }
+    { "img1": "/assets/services1.png" },
+    { "img1": "/assets/services2.png" },
+    { "img1": "/assets/services3.png" }
   ],
   "Title": [
     { "label": "Industrial" },

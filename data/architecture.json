@@ -1,7 +1,7 @@
 {
-    "mainimage":"../src/assets/architecturemain.png",
-    "image":"../src/assets/arch2.png",
-    "arrow":"../src/assets/arrow.png",
+    "mainimage":"/assets/architecturemain.png",
+    "image":"/assets/arch2.png",
+    "arrow":"/assets/arrow.png",
     "CardHeading":"Dianne Russell",
     "CardDescription":"More than 20 years of experience in the field architecture and has worked on project up to 100+"
 }
