@@ -1,5 +1,4 @@
 import React from "react";
-import buildingImage from "./assets/building.png";
 
 const HeroSection = () => {
   return (
@@ -33,7 +32,7 @@ const HeroSection = () => {
         </div>
         <div className="hero-image relative w-full">
           <div className="float-right max-w-full">
-          <img src={buildingImage} alt="Building construction" className="invisible md:visible max-w-[398px] mt-[-124px] xl:mt-[-935px] xl:max-w-[698px] h-[687px] md:mt-[-650px] md:max-w-[350px] lg:mt-[-700px] lg:h-[755px] lg:max-w-[450px] xl:h-[987px]" />
+          <img src="/assets/building.png" alt="Building construction" className="invisible md:visible max-w-[398px] mt-[-124px] xl:mt-[-935px] xl:max-w-[698px] h-[687px] md:mt-[-650px] md:max-w-[350px] lg:mt-[-700px] lg:h-[755px] lg:max-w-[450px] xl:h-[987px]" />
           </div>
           <div className="flex items-center left-1/2 -translate-x-1/2 md:left-auto md:translate-x-0 justify-center flex-col md:flex-row absolute mx-auto  w-[250px] h-[230px]  md:right-0 md:ps-[32px] md:pe-[20px] pt-[20px] pb-[20px] md:pt-[30px] xl:pt-[40px] md:pb-[37px] md:w-full md:max-w-[400px]   xl:max-w-[745px]   md:h-[150px] xl:h-[166px] mt-[50px] md:mt-[-61px] lg:max-w-[525px] lg:mt-[-40px] xl:mt-[-60px] gap-[15px] md:gap-[41px] bg-gradient-to-r from-[#399FD8] via-[#0775B4] to-[#003756]">
             <div className="font-[500] text-[14px] xl:text-[18px] text-[#FFFFFF] leading-[1.5rem] xl:leading-[2.5rem]"><h1>General <h1 className=" text-[16px] xl:text-[24px]">Project</h1></h1></div>

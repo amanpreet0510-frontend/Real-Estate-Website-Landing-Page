@@ -1,13 +1,13 @@
 {
   "Title": "What Make Us Different?",
   "Description": "Check out our best service you can possibly orders in building your company and don't forget to ask via our email or our customer service if you are interested in using our services",
-  "backgroundimage1": "../src/assets/light.png",
-  "backgroundimage2": "../src/assets/dark.png",
+  "backgroundimage1": "/assets/light.png",
+  "backgroundimage2": "/assets/dark.png",
   "image": [
-    { "vector": "../src/assets/vector1.png" },
-    { "vector": "../src/assets/vector2.png" },
-    { "vector": "../src/assets/vector3.png" },
-    { "vector": "../src/assets/vector4.png" }
+    { "vector": "/assets/vector1.png" },
+    { "vector": "/assets/vector2.png" },
+    { "vector": "/assets/vector3.png" },
+    { "vector": "/assets/vector4.png" }
   ],
   "SubTitle": [
     { "label": "Experienced" },
