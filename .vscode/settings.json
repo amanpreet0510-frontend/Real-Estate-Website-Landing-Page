@@ -1,0 +1,15 @@
+{
+  "editor.quickSuggestions": { "other": true, "comments": false, "strings": true },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.quickSuggestionsDelay": 10,
+  "editor.wordBasedSuggestions": "matchingDocuments",
+  "editor.parameterHints.enabled": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggestSelection": "recentlyUsed",
+  "editor.tabCompletion": "on",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "typescript.suggest.enabled": true,
+  "javascript.suggest.enabled": true,
+  "emmet.includeLanguages": { "javascript": "javascriptreact", "vue-html": "html" }
+}
